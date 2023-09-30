@@ -1,0 +1,59 @@
+.hello-1 {
+  padding: 2%;
+}
+
+.div_box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 23px;
+  width: 72px;
+  color: #4B321D;
+  font-size: 18px;
+  margin-left: 600px;
+  padding: 1%;
+}
+
+.yonmayon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.hello-2 {
+  width: 1000px;
+  color: #4B321D;
+  font-size: 80px;
+  padding: 2%;
+}
+
+.foto3 {
+  padding: 2%;
+  margin-top: 3%;
+}
+
+.h4 {
+  width: 601px;
+  color: #4B321D;
+  font-size: 38px;
+  padding: 2%;
+  margin-top: 25%;
+}
+
+.yon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.yon button {
+  width: 162px;
+  height: 50px;
+  border-radius: 3px;
+  border: 2px solid #4B321D;
+  color: #4B321D;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 35%;
+  margin-left: -43.5%;
+}

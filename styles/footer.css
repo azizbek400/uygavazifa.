@@ -1,0 +1,22 @@
+.foto1 {
+  padding: 2%;
+}
+
+.hello-3 {
+  width: 1319px;
+  color: #4B321D;
+  font-size: 80px;
+  padding: 2%;
+}
+
+button {
+  width: 162px;
+  height: 50px;
+  border-radius: 3px;
+  border: 2px solid #4B321D;
+  color: #4B321D;
+  font-size: 20px;
+  margin-left: 2%;
+  margin-top: -2%;
+  cursor: pointer;
+}
